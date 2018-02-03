@@ -16,6 +16,9 @@ $ git status
 $ git add .
 $ git status
 
+$ git config --global user.name D&A
+$ git config --global user.email rizkyramadhanatanjung@gmail.com
+
 ```
 * [ ] Melakukan penambahan file
 * [ ] Intro github
