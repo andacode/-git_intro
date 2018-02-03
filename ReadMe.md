@@ -8,15 +8,15 @@ Belajar Git (I-Dev)
 * [X] Buat file baru dalam direktori bernama ReadMe.md
 	> Changes files / Unstagging file = file yang berubah /o/
 	> Stagging files = file yang sudah di add dan siap di commit
-* [ ] Mengenal file "Changes", "Staging", dan "Commited"
-* [ ] Menggunakan git status, git addm git commit -> code
+* [X] Mengenal file "Changes", "Staging", dan "Commited"
+* [X] Menggunakan git status, git add . git commit -> code
 ```
 $ git init
 $ git status
 $ git add .
 $ git status
 
-$ git config --global user.name D&A
+$ git config --global user.name DNA
 $ git config --global user.email rizkyramadhanatanjung@gmail.com
 
 ```
